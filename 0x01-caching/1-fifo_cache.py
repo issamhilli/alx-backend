@@ -1,4 +1,5 @@
-te FIFOCache class that inherits from BaseCaching"""
+#!/usr/bin/python3
+"""Create FIFOCache class that inherits from BaseCaching"""
 BaseCaching = __import__('base_caching').BaseCaching
 
 
